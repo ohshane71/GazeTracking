@@ -1,8 +1,3 @@
-"""
-Demonstration of the GazeTracking library.
-Check the README.md for complete documentation.
-"""
-
 import cv2
 from face_tracking.head_pose_estimation import FaceTracking
 from face_tracking.head_pose_estimation import HeadPoseEstimation
